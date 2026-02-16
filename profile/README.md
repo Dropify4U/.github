@@ -19,10 +19,10 @@ Dropify4U is a powerful platform designed to bridge **brands (HQs)** with their 
 
 | Frontend | Backend | Infrastructure |
 |----------|---------|----------------|
-| Next.js 16 | Django REST Framework | PostgreSQL |
-| TypeScript | Python 3.14 | Redis |
+| Next.js | Django REST Framework | PostgreSQL |
+| TypeScript | Python | Redis |
 | Tailwind CSS | JWT Authentication | AWS EC2 |
-| NextAuth.js | Billplz Payment Gateway | |
+| NextAuth.js | Billplz Payment Gateway | AWS RDS |
 
 ---
 
