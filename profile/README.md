@@ -59,7 +59,7 @@ Dropify4U is a powerful platform designed to bridge **brands (HQs)** with their 
 Have questions or want to collaborate? Reach out to us!
 
 - 🌐 Website: [dropify4u.com](https://dropify4u.com)
-- 📧 Email: [support@dropify4u.com](support@dropify4u.com)
+- 📧 Email: [support@dropify4u.com](mailto:support@dropify4u.com)
 
 ---
 
