@@ -64,7 +64,7 @@ Have questions or want to collaborate? Reach out to us!
 ---
 
 <p align="center">
-  <img src="https://github.com/Dropify4U/.github/profile/logo.png" alt="Dropify4U Logo" width="200"/>
+  <img src="https://github.com/Dropify4U/.github/profile/1000200446-nobg.png" alt="Dropify4U Logo" width="200"/>
 </p>
 
 <p align="center">
